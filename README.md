@@ -136,3 +136,7 @@ You should know how to use a command console on Windows.
   Universal Mincraft Editor:  
   https://www.universalminecrafteditor.com/
   
+## Videos
+  
+  Hey, a good example of the setup! Pretty much an example of the steps above!  
+  https://www.youtube.com/watch?v=G-piS_3--Kw
