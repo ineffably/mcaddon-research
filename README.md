@@ -20,7 +20,7 @@ You should know how to use a command console on Windows.
 
   [https://code.visualstudio.com/download](https://code.visualstudio.com/download)
   
-- Download Node
+- Download Node LTS
    
    [https://nodejs.org/en/download/](https://nodejs.org/en/download/)
 
@@ -135,6 +135,12 @@ You should know how to use a command console on Windows.
   
   Universal Mincraft Editor:  
   https://www.universalminecrafteditor.com/
+  
+  VSCode:  
+  https://code.visualstudio.com/download
+  
+  Node LTS:  
+  https://nodejs.org/en/download/
   
 ## Videos
   
