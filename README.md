@@ -96,9 +96,9 @@ You should know how to use a command console on Windows.
     },
     ```
     
-    - to install your addon use `gulp install` 
-    - to just build your addon for validation `gulp build`
-    - to package your addon for sharing `gulp package`
+    - to install your addon use `npm run install` 
+    - to just build your addon for validation `npm run build`
+    - to package your addon for sharing `npm run package`
 
 ... next up investigating folders structures and some sample addons
 
