@@ -39,7 +39,7 @@ You should know how to use a command console on Windows.
   ```npm i -g generator-minecraft-addon```
 
   This will install the generator globally so that you can use it from any location.  
-  From @AtomicBlom who also has some great examples and tutorials... 
+  From @AtomicBlom who also has some great sample projects... 
   https://github.com/AtomicBlom
  
 - Create your addon project using the generator
