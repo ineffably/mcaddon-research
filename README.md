@@ -34,7 +34,7 @@ You should know how to use a command console on Windows.
  
 - Install the addon generator
 
-  Install the generator package that yo will utilze for generating our templates and help test deploy and package the addon
+  Install the generator package that yo will utilze for generating our templates and help test deploy and package the addon. source: [generator-minecraft-addon](https://github.com/minecraft-addon-tools/generator-minecraft-addon)
 
   ```npm i -g generator-minecraft-addon```
 
