@@ -1,7 +1,7 @@
 # mcaddon-research
 Research notes for Minecraft Bedrock scripting and addons
 
-## Gettings started
+## Getting started
 
 I'm doing this on a Windows 10 machine, so all the commands and steps are against that OS.
 You should know how to use a command console on Windows. 
